@@ -1,4 +1,9 @@
 <div align="center">
+## 🌐 My Live Portfolio
+
+Visit my website: https://digvijay-portfolio-kappa.vercel.app
+
+
 
 # Digvijay Gupta — Personal Portfolio
 
@@ -23,77 +28,10 @@ A personal portfolio showcasing my skills, projects, education, and experience a
 - JavaScript
 - HTML and CSS
 
-## 📁 Project Structure
-
-```text
-app/
-  layout.js
-  page.js
-  resume/page.js
-  work/page.js
-  contact/page.js
-  globals.css
-components/
-  Nav.js
-  Footer.js
-  ProjectCard.js
-lib/
-  data.js
-public/
-  photo.jpg
-  Digvijay-Gupta-Resume.pdf
-```
-
-## 🚀 Getting Started
-
 ### Prerequisites
 
 - Node.js
 - npm
-
-### Installation
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/digvijayguptaworks/portfolio.git
-   ```
-
-2. Navigate to the project directory:
-
-   ```bash
-   cd portfolio
-   ```
-
-3. Install dependencies:
-
-   ```bash
-   npm install
-   ```
-
-4. Start the development server:
-
-   ```bash
-   npm run dev
-   ```
-
-5. Open [http://localhost:3000](http://localhost:3000) in your browser.
-
-### Production Build
-
-```bash
-npm run build
-npm start
-```
-
-## ✏️ Customization
-
-Update `lib/data.js` to modify portfolio content, including skills, projects, education, certifications, and links.
-
-## 🚀 Deployment
-
-This project can be deployed on [Vercel](https://vercel.com/). Import the GitHub repository and deploy it using the default Next.js settings.
-
 ---
 
 ## 📄 License
